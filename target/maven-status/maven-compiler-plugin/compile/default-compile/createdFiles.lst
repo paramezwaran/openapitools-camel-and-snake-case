@@ -1,0 +1,9 @@
+com/param/rest/openapi/camelandsnakecase/api/PetCamelCaseController.class
+com/param/rest/openapi/camelandsnakecase/api/PetSnakeCaseController.class
+com/param/rest/openapi/camelandsnakecase/snakecase/model/Error.class
+com/param/rest/openapi/camelandsnakecase/snakecase/model/PetSnakeCase.class
+com/param/rest/openapi/camelandsnakecase/camelcase/model/Error.class
+com/param/rest/openapi/camelandsnakecase/camelcase/model/Pets.class
+com/param/rest/openapi/camelandsnakecase/snakecase/model/Pets.class
+com/param/rest/openapi/camelandsnakecase/CamelAndSnakeCaseApplication.class
+com/param/rest/openapi/camelandsnakecase/camelcase/model/PetCamelCase.class
