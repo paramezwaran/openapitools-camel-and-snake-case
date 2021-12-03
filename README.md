@@ -1,0 +1,1 @@
+# openapitools-camel-and-snake-case
